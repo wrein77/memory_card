@@ -183,4 +183,6 @@ question_list.append(q5)
 next_question()
 otvet.clicked.connect(click_OK)
 okno.show()
+
 app.exec_()
+#тестовое изменение 
